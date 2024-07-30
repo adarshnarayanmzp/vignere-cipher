@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+#ciphertext, #plaintext-output {
+    font-weight: bold;
+    color: #007bff;
+}
